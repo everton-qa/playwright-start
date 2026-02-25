@@ -1,3 +1,4 @@
+```
 Checkout – IA como Copiloto
 
 A estrutura da pasta Checkout foi construída utilizando o MCP do próprio Playwright como copiloto.
@@ -38,7 +39,6 @@ Node.js
 
 GitHub Actions
 
-```
 --------------------------------------------------------------
 Estrutura do Projeto
 .
